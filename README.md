@@ -1,5 +1,6 @@
 
-# Containerize on AWS 🚀
+<h1 align="center">Containerize on AWS 🚀</h1>
+
 ⭐️ **Sign-up your name at**: https://go.jansat.co/con-signup
 
 ⭐️ **Lab Instruction**: [ECS Hands-on Lab](https://catalog.us-east-1.prod.workshops.aws/workshops/df8562af-6b72-4e39-b278-332ea2c47f36/en-US)
