@@ -3,7 +3,6 @@
 
 ⭐️ [https://catalog.us-east-1.prod.workshops.aws/join?access-code=deec-0cea10-79](https://catalog.us-east-1.prod.workshops.aws/join?access-code=deec-0cea10-79)
 
-⭐️ **Lab Instruction**: [ECS Hands-on Lab](https://catalog.us-east-1.prod.workshops.aws/workshops/df8562af-6b72-4e39-b278-332ea2c47f36/en-US)
 
 ## 🏁 Today's Lab
 
